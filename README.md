@@ -171,15 +171,7 @@ A campus-focused food ordering web application designed to make ordering food fr
 
 </td>
 
-<td width="50%" valign="top">
 
-### 📈 Uber Rides Data Analysis
-
-A data analysis project focused on exploring Uber ride data, identifying patterns, and presenting insights through visualization.
-
-**Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Power BI
-
-</td>
 </tr>
 </table>
 
